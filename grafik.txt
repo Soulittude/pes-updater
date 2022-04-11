@@ -1,0 +1,64 @@
+Player Name:MESSI
+Squad Number:10
+Team:FC BARCELONA
+League:Liga BBVA
+Nationality:ARGENTINA
+International:Yes
+Included in MLO:Yes
+Height:169
+Weight:67
+Age:25
+Stronger Foot:Left foot
+Registered Position:SS
+All positions:
+LWF    SS     CF    RWF
+LMF   DMF   CMF   AMF   RMF
+ LB     SW     CB     RB 
+ GK 
+Attack:99
+Defence:38
+Header accuracy:74
+Dribble accuracy:98
+Short-pass accuracy:84
+Short-pass speed:82
+Long-pass accuracy:81
+Long-pass speed:81
+Shot accuracy:99
+Place kicking:85
+Swerve:85
+Ball control:93
+Weak foot accuracy:6
+Weak foot usage:4
+Goal keeping skills:50
+Responsiveness:84
+Explosive power:97
+Dribble speed:98
+Top speed:82
+Body balance:83
+Stamina:76
+Kicking power:80
+Jump:74
+Injury:2
+Attack:3
+Defence:2
+Form:6
+Tenacity:76
+Teamwork:83
+Overall Rating:98
+P05:Mazing Run
+P09:Incisive Run
+S05:Speed Merchant
+S06:Long Range Drive
+S07:Shoulder Feint Skills
+S09:Roulette Skills
+S11:Flicking Skills
+S17:Scissor Kick
+S20:Double Touch
+S21:Run Around
+S22:Flick(Sombrero)
+  
+  
+  
+Rating as 
+SS
+: 98
